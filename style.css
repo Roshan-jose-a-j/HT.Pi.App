@@ -1,0 +1,25 @@
+.container{
+    border: 2px red solid;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.time-display{
+    border: 2px blue solid;
+    height: 3rem;
+    margin-top:20px;
+    width: 15rem;
+    
+    
+}
+
+.container-2{
+    /* border: 2px black solid; */
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    
+}
